@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bruno Cesar</h1>
+<h1 align="center">Hi, I'm Bruno Cesar</h1>
 <h3 align="center">Developer frontend, backend and mobile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bcesar7&label=Profile%20views&color=0e75b6&style=flat" alt="bcesar7" /> </p>
