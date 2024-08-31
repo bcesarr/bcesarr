@@ -17,8 +17,4 @@
 </a>
 
 ## Minhas contrinuições:
-<div>
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bcesar7&bg_color=000000&color=ff2929&line=c90000&point=eb0e0e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bcesar7&bg_color=0d1117&color=ff2929&line=c90000&point=eb0e0e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
