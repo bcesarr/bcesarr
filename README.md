@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=de0000&size=28&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Bruno+Cesar,+bem+vindo!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bcesar7&show_icons=true&count_private=true&hide_border=false&title_color=de0000&icon_color=c90000&text_color=ffffff&bg_color=0d1117" alt="Bruno Cesar github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bcesarr&show_icons=true&count_private=true&hide_border=false&title_color=de0000&icon_color=c90000&text_color=ffffff&bg_color=0d1117" alt="Bruno Cesar github stats" />
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcesar7&layout=compact&hide_border=false&title_color=c90000&text_color=ffffff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcesarr&layout=compact&hide_border=false&title_color=c90000&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 ##
@@ -17,4 +17,4 @@
 </a>
 
 ## Minhas contrinuições:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bcesar7&bg_color=0d1117&color=ff2929&line=c90000&point=eb0e0e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bcesarr&bg_color=0d1117&color=ff2929&line=c90000&point=eb0e0e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
