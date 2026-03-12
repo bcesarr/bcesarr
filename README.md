@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=de0000&size=28&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Bruno+Cesar,+bem+vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=de0000&size=28&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bcesarr&show_icons=true&count_private=true&hide_border=false&title_color=de0000&icon_color=c90000&text_color=ffffff&bg_color=0d1117" alt="Bruno Cesar github stats" />
@@ -13,10 +13,10 @@
 Linguagens de programação e tecnologias que ja tive contato e utilizo:
 
 ## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,python,fastapi,nodejs,java)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,springboot,bootstrap,tailwind)](https://skillicons.dev)
 
 ## 🗄️ Bancos de Dados: 
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
