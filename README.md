@@ -16,13 +16,13 @@ Linguagens de programação e tecnologias que ja tive contato e utilizo:
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,python,fastapi,nodejs,java)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=react,springboot,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,spring,bootstrap,tailwind)](https://skillicons.dev)
 
 ## 🗄️ Bancos de Dados: 
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pycharm,vercel,wordpress,figma,pr,ai)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pycharm,vercel,wordpress,figma,pr,ai,notion)](https://skillicons.dev)<br><br>
 
 ## Contato:
 <a href="https://www.linkedin.com/in/b-cesar/">
