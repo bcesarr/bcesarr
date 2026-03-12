@@ -13,7 +13,7 @@
 Linguagens de programação e tecnologias que ja tive contato e utilizo:
 
 ## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,python,fastapi,nodejs,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,fastapi,nodejs,java)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=react,spring,bootstrap,tailwind)](https://skillicons.dev)
@@ -28,6 +28,3 @@ Linguagens de programação e tecnologias que ja tive contato e utilizo:
 <a href="https://www.linkedin.com/in/b-cesar/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-## Minhas contrinuições:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bcesarr&bg_color=0d1117&color=ff2929&line=c90000&point=eb0e0e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
